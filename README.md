@@ -7,7 +7,7 @@ naver.properties, application.yml
 ## 프로젝트 소개
 호텔 통합관리 웹사이트 제작을 통해 Spring Boot를 통한 웹프로그래밍 프로젝트 과제 수행<br/>
 실제 호텔 브랜드사이트 참고하여 모습 및 기능구현 목표 [링크](https://josunhotel.com)<br/>
-제작한 프로젝트 사이트 [링크](http://bit-dreamstay.kro.kr)
+제작한 프로젝트 사이트(현재불가능) [링크](http://bit-dreamstay.kro.kr)
 * 회원/비회원, 공지사항, 문의게시판 등 CRUD 기능
 * 메일 인증을 회원가입 인증
 * 카카오 및 네이버 소셜로그인
@@ -24,14 +24,9 @@ naver.properties, application.yml
 
 
 ## 팀원
-|팀원|작업했던 것|Git URL|
+|이름|작업했던 것|Git URL|
 |-------------------|---|---|
-|최용주|관리자페이지, 채팅|[Itnaupna](https://github.com/itnaupna)|
 |유찬민|메인페이지, 예약, 결제페이지|[Deko252](https://github.com/Deko252)|
-|이상혁|마이페이지,결제페이지, 결제성공페이지, 비회원예약확인, 메인페이지(푸터)|[helloa1109](https://github.com/helloa1109)|
-|박재희|문의게시판, 메인페이지(헤더)|[jaehhee](https://github.com/jaehhee)|
-|박성준|로그인, 회원가입, 비회원예약확인, 공지사항, 호텔 상세페이지|[Psj109079](https://github.com/Psj109079)|
-|김석진|관리자페이지(CSS),채팅페이지(CSS),DB데이터 관리|[jameskim0208](https://github.com/jameskim0208)|
 
 ## 사용 기술
 ### Front-End
@@ -77,16 +72,11 @@ naver.properties, application.yml
 
 ## 모습
 ### * 메인화면
-<img src="https://github.com/itnaupna/DS_PUB/blob/master/01-main.png?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/104fc018-c51b-42b8-9462-a06a21269733?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/8dbfb173-2803-45ea-bee0-3522429b15d9?raw=true">
 
-### * 로그인화면
-<img src="https://github.com/itnaupna/DS_PUB/blob/master/02-login.png?raw=true">
-
-### * 마이페이지 화면
-<img src="https://github.com/itnaupna/DS_PUB/blob/master/03-mypage.png?raw=true">
-
-### * 채팅상담 화면
-<img src="https://github.com/itnaupna/DS_PUB/blob/master/04-chat.png?raw=true">
+### * 예약화면
+<img src="https://github.com/Deko252/jumjin/assets/114369279/5eb14e95-1160-4299-86f3-1a2cd23bf8d9?raw=true">
 
 ## 제거된 파일
 <details>
