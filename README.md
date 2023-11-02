@@ -70,7 +70,7 @@ naver.properties, application.yml
 ## ERD
 <img src="https://github.com/itnaupna/DS_PUB/blob/master/image.png?raw=true">
 
-## 모습
+## Images
 ### * 메인화면
 <img src="https://github.com/Deko252/jumjin/assets/114369279/104fc018-c51b-42b8-9462-a06a21269733?raw=true">
 <img src="https://github.com/Deko252/jumjin/assets/114369279/8dbfb173-2803-45ea-bee0-3522429b15d9?raw=true">
