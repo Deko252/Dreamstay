@@ -72,11 +72,12 @@ naver.properties, application.yml
 
 ## Images
 ### * 메인화면
-<img src="https://github.com/Deko252/jumjin/assets/114369279/104fc018-c51b-42b8-9462-a06a21269733?raw=true">
-<img src="https://github.com/Deko252/jumjin/assets/114369279/8dbfb173-2803-45ea-bee0-3522429b15d9?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/b848e09c-bf51-425c-805d-4491887cf9d1?raw=true">
 
 ### * 예약화면
-<img src="https://github.com/Deko252/jumjin/assets/114369279/5eb14e95-1160-4299-86f3-1a2cd23bf8d9?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/c83a9cda-a091-4f9f-aee7-9c036056c1f2?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/9cdc7dec-718a-4462-a075-00541a2391ea?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/d5d2ff12-665a-4125-a1ea-cc135db13705?raw=true">
 
 ## 제거된 파일
 <details>
